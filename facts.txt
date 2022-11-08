@@ -1,2 +1,3 @@
 fact A
 fact B
+fact C
